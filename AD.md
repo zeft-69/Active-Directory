@@ -341,12 +341,6 @@ example: `net use c:\\DOMAIN-CONTROLLER\admin$ /user:Administrator mimikatz` 
 example: `dir \\Desktop-1\c$ /user:Machine1 mimikatz` - access the directory of Desktop-1 without ever knowing what users have access to Desktop-1
 
 The skeleton key will not persist by itself because it runs in the memory, it can be scripted or persisted using other tools and techniques however that is out of scope for this room.
-# 112233
 
-
-# 445566
-
-
-# 778899
 
 
