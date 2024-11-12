@@ -11,7 +11,7 @@ nmap -p- -A -nP
 ``` bash
 enum4linux -M + ip
 
-enum4linux -a spookysec.local
+enum4linux -a <name>.local
 
 ```
 
